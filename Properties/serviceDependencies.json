@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Pitaru_Cosmin_Lab8Context"
+    }
+  }
+}
